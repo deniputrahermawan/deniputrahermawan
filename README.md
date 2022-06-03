@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deniputrahermawan
-- 👀 I’m interested in Programing Android
-- 🌱 I’m currently learning Java Lanugange, Material Design etc
+- 👀 I’m interested in programming android
+- 🌱 I’m currently learning java language, material design etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at deniputrahermawan@gmail.com
 
